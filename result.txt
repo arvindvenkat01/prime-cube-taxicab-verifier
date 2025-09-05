@@ -1,0 +1,12 @@
+Starting elegant search for consecutive prime triples...
+Completed search up to prime 10000000000 in 574.85 seconds.
+Found 2 solution(s):
+Solution 1: 2³ + 12² = 3³ + 5³ = 152
+  Consecutive primes: (2, 3, 5)
+  Ratio n/p1 = 6.000000
+  Prime gaps: 1, 2
+Solution 2: 3³ + 21² = 5³ + 7³ = 468
+  Consecutive primes: (3, 5, 7)
+  Ratio n/p1 = 7.000000
+  Prime gaps: 2, 2
+Pattern detected: Ratios are consecutive integers.
